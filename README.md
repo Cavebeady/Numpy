@@ -1,11 +1,11 @@
 # Numpy
-## Title: Numpy Assignment
+## Title: Numpy Practise Questions
 ## Author: OBIBI Oghenofegor Gregory
 ## Contact: oghenofegor.obibi@gmail.com
 ## Date: 03/03/2026
 
 # Introduction
-This is a numpy assignmnet on array operations and numerical analysis using numpy.
+This is a numpy practise question on array operations and numerical analysis using numpy.
 It includes:
 * 20 theoretical and practical questions.
 * Topics covering NumPy fundamentals.
